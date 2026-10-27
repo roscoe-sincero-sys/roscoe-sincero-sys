@@ -45,12 +45,35 @@ T-SQL & database architect by day, AI experimenter and retro engine hacker by ni
 
 ### 🕹️ Retro Roots: Quake & Quake II (1996–1998)
 
-Before modern data systems and LLM orchestration, I spent the late '90s developing game AI, movement routines, and gameplay overhauls under the handle **Legion**:
+Long before architecting modern data backends and steering LLMs, I spent the late 1990s deep in the id Software modding scene under the handle **Legion**, building autonomous bot AI, movement libraries, and total combat overhauls:
 
-* **[Stroggs Gone Mad (SGM)](https://thequake2repository.blogspot.com/2013/10/information-center.html)** *(Quake II, 1998)*: Single-player tactical combat overhaul introducing persistent pursuit mechanics, aggressive strafing patterns, and high-velocity projectile cycles.
-* **`norse_movetogoal` & Bot Navigation** *(Quake / QuakeC)*: Custom movement and goal-seeking libraries addressing bot navigation limits, credited across classic mods including *DoomBot*, *Paroxysm*, *SamBot*, and *UDM*.
-* **Quake Bot Skeleton (`btsk`)**: Reusable base skeletons for autonomous bot navigation, naming routines, and water-level awareness.
+* **Stroggs Gone Mad (SGM)** *(Quake II, Nov 1998 — v1.0c)*:  
+  A complete single-player tactical combat and difficulty overhaul designed to strip away the predictable "turret syndrome" of vanilla Strogg units:
+  * **Evasive Combat Maneuvers:** Re-engineered monster movement to include active lateral strafing, dodge mechanics, and dynamic positioning during fire cycles.
+  * **Persistent Pursuit Logic:** Removed passive aggro limits, turning encounters into high-tempo hunts where enemies aggressively track players through geometry.
+  * **Accelerated Attack Cycles:** Drastically reduced attack recovery intervals and increased projectile velocities to punish passive corner-camping.
+  * **Downloads & Archives:** Available via [The Quake II Repository](https://thequake2repository.blogspot.com/2013/10/information-center.html), [ModDB](https://www.moddb.com/games/quake-2/downloads), and historical [FilePlanet / Internet Archive mirrors](https://archive.org/details/quake-2-stroggs-gone-mad).
 
+  <details>
+  <summary><b>🕹️ How to Run SGM Today (Yamagi Quake II / Classic Engines)</b></summary>
+
+  Because SGM is a classic `gamex86.dll` mod, it runs natively on standard 32-bit source ports or vanilla-compatible 64-bit builds like [Yamagi Quake II](https://www.yamagi.org/quake2/):
+
+  1. Download and extract the SGM archive (e.g., `sgm10c.zip`).
+  2. Place the resulting folder (named `sgm` or `mad`) inside your root Quake II directory alongside `baseq2`.
+  3. Launch via your modern port's command line or shortcut:
+     ```bash
+     yquake2.exe +set game sgm +map base1
+     ```
+     *(Or select the mod directly from the in-game mod menu if supported by your engine).*
+  </details>
+
+* **`norse_movetogoal` & Bot Navigation** *(Quake / QuakeC)*:  
+  Custom movement, goal-seeking, and environment-awareness libraries built to overcome the navigation barriers of early QuakeC deathmatch bots. Widely adopted and credited across pioneer mod projects including *DoomBot*, *Paroxysm*, *SamBot*, and *UDM*.
+
+* **Quake Bot Skeleton (`btsk`)**:  
+  Reusable architectural foundations providing autonomous bot pathing, dynamic name generation, and water-level awareness for early community bot developers.
+  
 ---
 
 <p align="center">
