@@ -1,6 +1,6 @@
 # Hi, I'm Roscoe Sincero 👋
 
-> *"I talk to AI so you don't have to."*
+> *"I talk to Astra so you don't have to."*
 
 T-SQL & database architect by day, AI experimenter and retro engine hacker by night[cite: 1]. I copy-paste with intent like this readme, steer models with precision, and focus on delivering outcomes over boilerplate[cite: 1].  GEMINI wrote this.  Somebody translate this for me.
 
