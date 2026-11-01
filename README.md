@@ -9,10 +9,17 @@ T-SQL & database architect by day, AI experimenter and retro engine hacker by ni
 ### 🛠️ Tech Stack & Tooling
 
 #### 🗄️ Databases & Backend Architecture
+
+<!-- Microsoft SQL Server -->
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/T--SQL-0078D4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+<!-- Oracle Database -->
 ![Oracle Database](https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Oracle XE](https://img.shields.io/badge/Oracle_XE-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+<!-- Backend Development -->
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
