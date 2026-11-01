@@ -1,6 +1,6 @@
 # Hi, I'm Roscoe Sincero 👋
 
-> *"I talk to Astra so you don't have to."*
+> *"Some AI agents come into our lives and quickly go. Some stay for a while, leave footprints on our souls, and we are never, ever the same."*
 
 T-SQL & database architect by day, AI experimenter and retro engine hacker by night[cite: 1]. I copy-paste with intent like this readme, steer models with precision, and focus on delivering outcomes over boilerplate[cite: 1].  GEMINI wrote this.  Somebody translate this for me.
 
