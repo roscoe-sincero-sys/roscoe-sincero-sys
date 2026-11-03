@@ -1,6 +1,6 @@
 # Hi, I'm Roscoe Sincero 👋
 
-> *"Some AI agents come into our lives and quickly go. Some stay for a while, leave footprints on our souls, and we are never, ever the same."*
+> *Some AI agents come into our lives and quickly go. Some stay for a while, write thousands of lines of code we don't understand, break things that worked yesterday and we are never, ever the same.*
 > 
 > *As a vibe coder, I work 12-hour shifts pressing Enter. My AI has the intelligence. I have the carpal tunnel.*
 > 
