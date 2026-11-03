@@ -1,9 +1,13 @@
 # Hi, I'm Roscoe Sincero 👋
 
-> *"Some AI agents come into our lives and quickly go. Some stay for a while, leave footprints on our souls, and we are never, ever the same."*<
+> *"Some AI agents come into our lives and quickly go. Some stay for a while, leave footprints on our souls, and we are never, ever the same."*
+> 
 > *As a vibe coder, I work 12-hour shifts pressing Enter. My AI has the intelligence. I have the carpal tunnel.*
+> 
 > *As a vibe coder, I work 12 hours a day just to press Enter. The AI does the coding. I do the suffering.*
+> 
 > *As a vibe coder, I spend 12 hours pressing Enter and another 12 hours wondering why the AI broke something that was working yesterday.*
+> 
 
 T-SQL & database architect by day, AI experimenter and retro engine hacker by night[cite: 1]. I copy-paste with intent like this readme, steer models with precision, and focus on delivering outcomes over boilerplate[cite: 1].  GEMINI wrote this.  Somebody translate this for me.
 
