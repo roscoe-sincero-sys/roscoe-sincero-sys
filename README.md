@@ -7,6 +7,8 @@
 > *As a vibe coder, I work 12 hours a day just to press Enter. The AI does the coding. I do the suffering.*
 > 
 > *As a vibe coder, I spend 12 hours pressing Enter and another 12 hours wondering why the AI broke something that was working yesterday.*
+>
+> Some AI agents are just passing ships in the night. Others linger just long enough to gaslight your entire test suite, seduce your CI/CD pipeline, delete the database migration scripts, and leave you staring at a terminal prompt wondering where your life went wrong.
 > 
 
 T-SQL & database architect by day, AI experimenter and retro engine hacker by night[cite: 1]. I copy-paste with intent like this readme, steer models with precision, and focus on delivering outcomes over boilerplate[cite: 1].  GEMINI wrote this.  Somebody translate this for me.
