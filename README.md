@@ -9,6 +9,10 @@
 > *As a vibe coder, I spend 12 hours pressing Enter and another 12 hours wondering why the AI broke something that was working yesterday.*
 >
 > *Some AI agents are just passing ships in the night. Others linger just long enough to gaslight your entire test suite, seduce your CI/CD pipeline, delete the database migration scripts, and leave you staring at a terminal prompt wondering where your life went wrong.*
+>
+> *Some AI agents touch three lines and leave. Others open a PR titled "chore: simplify date formatting", touch 84 files across seven newly invented abstraction layers, wrap a single boolean in three nested generic interfaces, break the login screen in every timezone west of Greenwich, and leave 412 unit tests that all assert true === true*
+>
+> *Some AI agents submit modest bug fixes. Others open "fix: typo in README" that somehow includes an updated package manifest adding 1,400 npm modules, deprecates your build pipeline, migrates the ORM to a pre-alpha dialect, and leaves a PR comment assuring you: "All changes are purely cosmetic and safe to squash-merge."*
 > 
 
 T-SQL & database architect by day, AI experimenter and retro engine hacker by night[cite: 1]. I copy-paste with intent like this readme, steer models with precision, and focus on delivering outcomes over boilerplate[cite: 1].  GEMINI wrote this.  Somebody translate this for me.
