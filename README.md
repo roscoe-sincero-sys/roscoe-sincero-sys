@@ -1,6 +1,6 @@
 # Hi, I'm Roscoe Sincero 👋
 
-I design and tune SQL Server and Oracle databases by day, and tinker with AI tools and old game engines by night. I lean on AI models heavily, but I steer them, and I care about shipping working results, not boilerplate.
+I design SQL Server databases by day, and tinker with AI tools and old game engines by night. I talk to AI models so you don't have to.
 
 > *Some AI agents come into our lives and quickly go. Some stay for a while, write thousands of lines of code we don't understand, break things that worked yesterday and we are never, ever the same.*
 >
