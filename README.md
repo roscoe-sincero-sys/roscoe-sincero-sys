@@ -34,6 +34,13 @@ I design SQL Server databases by day, and tinker with AI tools and old game engi
 
 ## ⚡ What I Focus On Today
 
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/focus-mobile.webp">
+    <img src="assets/focus.webp" alt="Anime-style Roscoe in a blue sleeveless shirt holding a flip phone, doing a confused double-take with floating question marks and a sweat drop, while a thought bubble cycles through a T-SQL temporal query returning zero rows, a local LLM replying with invalid JSON, and an HTMX/Alpine.js/Tailwind snippet that swaps the whole page">
+  </picture>
+</p>
+
 * **Data Architecture & Engineering:** High-performance T-SQL, system-versioned temporal history tables, complex audit tracing, and enterprise-grade relational patterns.
 * **Agentic Workflows & Model Steering:** Designing structured JSON schemas, running local LLM tools, and eliminating boilerplate through prompt-driven workflows.
 * **Pragmatic Full-Stack Web:** Backend-rendered HTML fragments and reactive client UI via ASP.NET Core MVC, HTMX, Alpine.js, and Tailwind CSS.
