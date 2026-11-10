@@ -43,9 +43,10 @@ I design SQL Server databases by day, and tinker with AI tools and old game engi
   </picture>
 </p>
 
-* **Keeping Data Out of the Junk Drawer:** I organize information so people can find what they need. I also keep track of changes, because "Who changed this?" is much easier to answer when the computer took notes.
+* **Keeping Data Out of the Junk Drawer:** I organize information so people can find what they need. I also keep track of changes because "Who changed this?" is much easier to place blame when the computer took notes.
 * **Giving AI Adult Supervision:** I get AI to help with repetitive, I mean real, work then check, I mean stare at, what it did.
-* **Making Websites Behave:** I build web pages where buttons do what you'd expect and forms remember what you typed. Small ambitions, until you've filled out the same form three times.
+* **Making Websites Behave:** I build web pages where buttons might do what you'd think it does and forms forget what you typed. Small ambitions, until you've built the same form three times then you get GPT-6.1-SOL to build and GEMINI Flash 3.8 to rubber stamp the pull request.
+
 
 ---
 
