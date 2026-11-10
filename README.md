@@ -36,8 +36,10 @@ I design SQL Server databases by day, and tinker with AI tools and old game engi
 
 <p align="center">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/focus-mobile.webp">
-    <img src="assets/focus.webp" alt="Anime-style Roscoe in a blue sleeveless shirt holding a flip phone, doing a confused double-take with floating question marks and a sweat drop, while a thought bubble cycles through a T-SQL temporal query returning zero rows, a local LLM replying with invalid JSON, and an HTMX/Alpine.js/Tailwind snippet that swaps the whole page">
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/flip-phone-dev-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="assets/flip-phone-dev-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/flip-phone-dev-desktop-dark.svg">
+    <img src="assets/flip-phone-dev-desktop-light.svg" alt="Anime-style Roscoe holding a 2004 flip phone and looking confused as he tries to build a full-stack web app, while the phone screen cycles through npm install over GPRS, a memory-full warning, a Docker error, and an incoming call from Mom">
   </picture>
 </p>
 
