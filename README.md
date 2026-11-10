@@ -52,6 +52,12 @@ I design SQL Server databases by day, and tinker with AI tools and old game engi
 
 ## 🕹️ Retro Roots: Quake & Quake II (1996–1998)
 
+<p align="center">
+  <picture>
+    <img src="assets/retro-roots.svg" alt="Retro arena deathmatch animation: the time limit hits just before the shot, and the scoreboard shows I Cause Lags in first place">
+  </picture>
+</p>
+
 Long before architecting modern data backends and steering LLMs, I spent the late 1990s deep in the id Software modding scene under the handle **Legion**, building autonomous bot AI, movement libraries, and total combat overhauls:
 
 * **Stroggs Gone Mad (SGM)** *(Quake II, Nov 1998 — v1.0c)*:  
