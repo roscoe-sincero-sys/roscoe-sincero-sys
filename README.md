@@ -1,4 +1,4 @@
-# Hi, I'm Roscoe Sincero 👋
+# Hi, I'm Roscoe Sincero 🫵
 
 I design SQL Server databases by day, and tinker with AI tools and old game engines by night. I talk to AI models so you don't have to.
 
