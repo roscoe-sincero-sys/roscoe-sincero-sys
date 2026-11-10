@@ -11,7 +11,7 @@ I design SQL Server databases by day, and tinker with AI tools and old game engi
 
 > *Some AI agents are just passing ships in the night. Others linger just long enough to gaslight your entire test suite, seduce your CI/CD pipeline, delete the database migration scripts, and leave you staring at a terminal prompt wondering where your life went wrong.*
 >
-> *Some AI agents touch three lines and leave. Others open a PR titled "chore: simplify date formatting", touch 84 files across seven newly invented abstraction layers, wrap a single boolean in three nested generic interfaces, break the login screen in every timezone west of Greenwich, and leave 412 unit tests that all assert true === true*
+> *Some AI agents touch three lines and leave. Others open a PR titled "chore: simplify date formatting", touch 84 files across seven newly invented abstraction layers, wrap a single boolean in three nested generic interfaces, break the login screen in every timezone west of Greenwich, and leave 412 unit tests that all assert true === true.*
 >
 > *Some AI agents submit modest bug fixes. Others open "fix: typo in README" that somehow includes an updated package manifest adding 1,400 npm modules, deprecates your build pipeline, migrates the ORM to a pre-alpha dialect, and leaves a PR comment assuring you: "All changes are purely cosmetic and safe to squash-merge."*
 
@@ -43,9 +43,9 @@ I design SQL Server databases by day, and tinker with AI tools and old game engi
   </picture>
 </p>
 
-* **Keeping Data Out of the Junk Drawer:** I organize information so people can find what they need. I also keep track of changes because "Who changed this?" is much easier to place blame when the computer took notes.
-* **Giving AI Adult Supervision:** I get AI to help with repetitive, I mean real, work then check, I mean stare at, what it did.
-* **Making Websites Behave:** I build web pages where buttons might do what you'd think it does and forms forget what you typed. Small ambitions, until you've built the same form three times then you get GPT-6.1-SOL to build and GEMINI Flash 3.8 to rubber stamp the pull request.
+* **Keeping Data Out of the Junk Drawer:** I organize information so people can find what they need. I also keep track of changes-because "Who changed this?" is much easier to place blame when the computer took notes.
+* **Giving AI Adult Supervision:** I get AI to help with repetitive-I mean real-work then check-I mean stare at-what it did.
+* **Making Websites Behave:** I build web pages where buttons might do what you'd think they do and forms most definitely forget what you typed. Small ambitions, until you've built the same form three times then you get GPT-6.1-SOL to build and GEMINI Flash 3.8 to rubber stamp the pull request.
 
 
 ---
@@ -58,7 +58,7 @@ I design SQL Server databases by day, and tinker with AI tools and old game engi
   </picture>
 </p>
 
-Long before architecting modern data backends and steering LLMs, I spent the late 1990s deep in the id Software modding scene under the handle **Legion**, building autonomous bot AI, movement libraries, and total combat overhauls:
+Years before piercing the corporate Maya and attaining Moksha as an over-caffeinated prompt jockey chatting with hallucinatory LLMs, I spent the late 1990s deep in the id Software modding scene under the handle **Legion** and **I Cause Lags**, building quake bots, movement libraries, and total combat overhauls:
 
 * **Stroggs Gone Mad (SGM)** *(Quake II, Nov 1998 — v1.0c)*:  
   A complete single-player combat and difficulty overhaul that cures the "turret syndrome" of vanilla Strogg units.
