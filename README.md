@@ -43,9 +43,9 @@ I design SQL Server databases by day, and tinker with AI tools and old game engi
   </picture>
 </p>
 
-* **Data Architecture & Engineering:** High-performance T-SQL, system-versioned temporal history tables, complex audit tracing, and enterprise-grade relational patterns.
-* **Agentic Workflows & Model Steering:** Designing structured JSON schemas, running local LLM tools, and eliminating boilerplate through prompt-driven workflows.
-* **Pragmatic Full-Stack Web:** Backend-rendered HTML fragments and reactive client UI via ASP.NET Core MVC, HTMX, Alpine.js, and Tailwind CSS.
+* **Keeping Data Out of the Junk Drawer:** I organize information so people can find what they need. I also keep track of changes, because "Who changed this?" is much easier to answer when the computer took notes.
+* **Giving AI Adult Supervision:** I get AI to help with repetitive, I mean real, work then check, I mean stare at, what it did.
+* **Making Websites Behave:** I build web pages where buttons do what you'd expect and forms remember what you typed. Small ambitions, until you've filled out the same form three times.
 
 ---
 
