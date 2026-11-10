@@ -58,7 +58,9 @@ I design SQL Server databases by day, and tinker with AI tools and old game engi
   </picture>
 </p>
 
-Years before piercing the corporate Maya and attaining Moksha as an over-caffeinated prompt jockey chatting with hallucinatory LLMs, I spent the late 1990s deep in the id Software modding scene under the handle **Legion** and **I Cause Lags**, building quake bots, movement libraries, and total combat overhauls:
+Years before piercing the corporate Maya and attaining Moksha as an over-caffeinated prompt jockey chatting with hallucinatory LLMs, I spent the late 1990s deep in the id Software modding scene under the handles **Legion** and **I Cause Lags**, building Quake bots, movement libraries, and total combat overhauls.
+
+Jason Brownlee's Quake Bot Archive lists me as **Legion**, the author of **DoomBot** for the original Quake. My 1997 Bot Movement and Bot Skeleton release notes both use the moniker **I Cause Lags!** The archive preserves those releases alongside DoomBot. [Quake Bot Archive index](https://github.com/Jason2Brownlee/QuakeBotArchive#quake-bot-list) · [Bot Movement v0.31 release notes](https://github.com/Jason2Brownlee/QuakeBotArchive/blob/main/bin/btmv31.txt) · [Bot Skeleton v0.23 release notes](https://github.com/Jason2Brownlee/QuakeBotArchive/blob/main/bin/btsk23.txt)
 
 * **Stroggs Gone Mad (SGM)** *(Quake II, Nov 1998 — v1.0c)*:  
   A complete single-player combat and difficulty overhaul that cures the "turret syndrome" of vanilla Strogg units.
@@ -85,10 +87,10 @@ Years before piercing the corporate Maya and attaining Moksha as an over-caffein
   </details>
 
 * **`norse_movetogoal` & Bot Navigation** *(Quake / QuakeC)*:  
-  Custom movement, goal-seeking, and environment-awareness libraries built to overcome the navigation barriers of early QuakeC deathmatch bots. Widely adopted and credited across pioneer mod projects including *DoomBot*, *Paroxysm*, *SamBot*, and *UDM*.
+  I wrote a replacement for Quake's built-in movement routine so bots could cross uneven ground, swim, and jump gaps. The release shipped with QuakeC source and demos showing the difference. **Navy SEALs sQuad bots v2.0.1** credited a modified version of `norse_movetogoal` v0.32 for much of its bot movement code. **CTFBot+** and **FrikBot** also credited my movement code. [Bot Movement v0.31 release notes](https://github.com/Jason2Brownlee/QuakeBotArchive/blob/main/bin/btmv31.txt) · [Navy SEALs sQuad bots v2.0.1 readme](https://www.scribd.com/document/426971606/Stuff-and-things-and-stuff) · [CTFBot+ credits](https://github.com/Jason2Brownlee/QuakeBotArchive/blob/main/bin/ctfbot%2B.txt) · [FrikBot credits preserved in the Quake Bot Archive](https://github.com/Jason2Brownlee/QuakeBotArchive/blob/main/research/essays/b18_doombot.md)
 
 * **Quake Bot Skeleton (`btsk`)**:  
-  Reusable architectural foundations providing autonomous bot pathing, dynamic name generation, and water-level awareness for early community bot developers.
+  I packaged the movement code with reusable bot features such as strafing while attacking, random names, and support for player classes. Other modders could use it as a starting point for their own bot AI. [Bot Skeleton v0.23 release notes](https://github.com/Jason2Brownlee/QuakeBotArchive/blob/main/bin/btsk23.txt)
   
 ---
 
