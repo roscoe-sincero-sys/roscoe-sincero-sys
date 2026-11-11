@@ -1,15 +1,15 @@
 # Hi, Nerds 🫵
 
-I design SQL Server databases (last I checked) by day, and stumble with AI tools by night. Main AI models se baat karta hoon, taaki aapko na karni pade.
+I design SQL Server databases (I think) by day, and stumble with AI tools by night. Main AI models se baat karta hoon, taaki aapko na karni pade.
 
-> *Some AI agents come into our lives and quickly go. Some stay for a while, write thousands of lines of code we don't understand, break things that worked yesterday and we are never, ever the same.*
->
-> *Vibe coders work 12-hour shifts pressing **Enter**. I do it as a hobby. My AI has the intelligence. I have the carpal tunnel.*
+**Vibe coders/AI Whisperers:** They work in 12-hour shifts pressing **Enter**. I do it as a hobby. My AI has the brains. I have the carpal tunnel.
 
 <details>
-<summary>🤖 <b>More AI agent wisdom</b></summary>
+<summary>🤖 <b>AI agent wisdom</b></summary>
 
 > *Some AI agents are just passing ships in the night. Others linger just long enough to gaslight your entire test suite, seduce your CI/CD pipeline, delete the database migration scripts, and leave you staring at a terminal prompt wondering where your life went wrong.*
+>
+> *Some AI agents come into our lives and quickly go. Some stay for a while, write thousands of lines of code we don't understand, break things that worked yesterday and we are never, ever the same.*
 >
 > *Some AI agents ask before they touch production. Others edit the database from memory of a meeting they half attended, get it wrong, and then tell you your prompt "wasn't clear."*
 >
@@ -27,11 +27,11 @@ I design SQL Server databases (last I checked) by day, and stumble with AI tools
 
 </details>
 
-Word of the day: **Vibe-speaking**. Speaking in 7,170 languages using AI. Cebuano, Catalan, Deutsch, Castellano, français, Swahili, Arabic, Afrikaans, Farsi, Hindi, English, C#.  
+**Vibe-speaking**. Speaking in 7,170 languages using AI. Cebuano, Catalan, Deutsch, Castellano, français, Swahili, Arabic, Afrikaans, Farsi, Hindi, English, C#.  
 
 No hablo ninguno de ellos.
 
-Pro-tip: For больши́х numbers, make an ek akshar change to your readme.  Then otwórz a new PR. Buhata, unya balika.
+**Pro-tip:** For больши́х numbers, make an ek akshar change to your readme.  Then otwórz a new PR. Buhata, unya balika.
 
 If you don't like what you see, don’t forget to star, fork, and blame. ⭐ <a href="https://github.com/roscoe-sincero-sys/roscoe-sincero-sys">Star ME</a> (click <strong>☆ Star</strong> next to <strong>Fork</strong>)
 
