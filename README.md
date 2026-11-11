@@ -37,6 +37,21 @@ No hablo ninguno de ellos.
 
 **Pro-tip:** For больши́х numbers, make an ek akshar change to your readme.  Then otwórz a new PR. Buhata, unya balika.
 
+<details>
+<summary><b>What is GitHub for me?</b></summary>
+
+GH is my new MySpace, Friendster, Bebo, Yahoo! 360°, Angelfire, GeoCities, 🫵 Finger.  MySpace indirectly introduced me to JavaScript and CSS since the site allowed us to modify our profiles so much. I even had three MySpace profiles, combined them to make it look as if it was one profile.  Today, GH introduced me to markdown files. 
+
+Back then, you could 📡QuakeSpy on your ~~targeted~~ favorite developer.  You just open up the DOS comand line and enter 
+
+<i>finger psteed@idsoftware.com</i>
+
+to read Paul Steed's latest .plan content for example.  Or if you're lazy, read about it later from Blue's News or some other gaming site.  Paul Steed emailed me a response to one of my comments once.  It was about 🏕️ camping in games, I believe.  Wished I saved that email and my comments he was reading.
+
+Finger is used sparingly today (e.g. finger marco@icculus.org).  The ⭐ is the new 🫵.
+
+</details>
+
 Since you don't like what you see, don’t forget to **star, fork, and blame**. ⭐ <a href="https://github.com/roscoe-sincero-sys/roscoe-sincero-sys">Star ME</a> (click <strong>☆ Star</strong> next to <strong>Fork</strong>)
 
 ---
