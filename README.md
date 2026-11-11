@@ -66,7 +66,7 @@ No hablo ninguno de ellos.
 <details>
   <summary><b>Just Another Tuesday</b></summary>
 
-* **Shotgun debugging:** No, the Onion didn't write this.  We really did watch the Brain ordering Pinky to get around an expired software license.  We also get to witness the Brain in another incident, a security incident, emailing the security officer that there were no logs available when the application itself has an event and login reports that you can use to see if it leads to anything.
+* **Shotgun debugging:** No, the Onion didn't write this.  We really did watch the Brain ordering Pinky to get around an expired software license of a web application.  And yes, we have a full-stack developer who has deployed web applications herself to servers, using Pinky as a remote control to roll back the clock as if the application were a shareware trial. Logins, SSL certs, and scheduled jobs were not on her shopping list.
 * **Blame first, check never:** I witnessed Brain blaming victim 2 for failing to complete a data migration that was already completed by another developer that she helped herself just a few days earlier -- twice.
 * **Two-faced performative concern:** You get in a car accident.  Car gets towed away but you made it to work, about 1 hour and 40 minutes late.  Brain shows concern about your well-being and even made it a point to show HR how much she cared.  But she secretly had Pinky write up a "Reminder: Adherence to Work Hours and Timeliness" email without using the actual times recorded by the building's proxy card system to show that you were at least 1 hour late every office day for weeks.
 </details>
