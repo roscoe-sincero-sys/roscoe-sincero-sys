@@ -44,9 +44,8 @@ I design SQL Server databases by day, and tinker with AI tools and old game engi
 </p>
 
 * **Keeping Data Out of the Junk Drawer:** I organize information so people can find what they need. I also keep track of changes-because "Who changed this?" is much easier to place blame when the computer took notes.
-* **Giving AI Adult Supervision:** I get AI to help with repetitive-I mean real-work then check-I mean stare at-what it did.
-* **Making Websites Behave:** I build web pages where buttons might do what you'd think they do and forms most definitely forget what you typed. Small ambitions, until you've built the same form three times then you get GPT-6.1-SOL to build and GEMINI Flash 3.8 to rubber stamp the pull request.
-
+* **Giving AI Adult Supervision:** I get AI to help with repetitive -I mean real- work then check -I mean stare at- what it did.
+* **Making Websites Behave:** I build web pages where buttons might do what you'd expect and forms most definitely forget what you typed. Small ambitions. I built a form by hand once. Now I have a three-model pull request workflow. GPT-6.1-SOL builds the form.  Opus 5.5 opens a pull request. GEMINI Flash 3.8 rubber stamps the PR. GEMINI Argon gets the credit.
 
 ---
 
