@@ -21,9 +21,9 @@ Word of the day: **Vibe-speaking**. Speaking in 7,170 languages using AI. Cebuan
 
 No hablo ninguno de ellos.
 
-Pro-tip: For big numbers, make a 1 character change to your readme.  Then open a new PR.  Rinse and repeat.
+Pro-tip: For больши́х numbers, make an ek akshar change to your readme.  Then otwórz a new PR. Buhata, unya balika.
 
-If you like what you see, don’t forget to star, fork, and blame. <a href="https://github.com/roscoe-sincero-sys/roscoe-sincero-sys">⭐ Star ME</a> (click <strong>☆ Star</strong> next to <strong>Fork</strong>)
+If you like what you see, don’t forget to star, fork, and blame. ⭐ <a href="https://github.com/roscoe-sincero-sys/roscoe-sincero-sys">Star ME</a> (click <strong>☆ Star</strong> next to <strong>Fork</strong>)
 
 ---
 
@@ -127,5 +127,5 @@ A bahut special shoutout to [Jason2Brownlee](https://github.com/Jason2Brownlee/)
 ---
 
 <p align="center">
-  <i>"I'm here to vibe, not to transcribe."</i> <a href="https://github.com/roscoe-sincero-sys/roscoe-sincero-sys">⭐ Star ME</a> (click <strong>☆ Star</strong> next to <strong>Fork</strong>)
+  <i>"I'm here to vibe, not to transcribe."</i> ⭐ <a href="https://github.com/roscoe-sincero-sys/roscoe-sincero-sys">Star ME</a> (click <strong>☆ Star</strong> next to <strong>Fork</strong>)
 </p>
