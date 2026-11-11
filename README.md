@@ -33,7 +33,7 @@ No hablo ninguno de ellos.
 
 **Pro-tip:** For больши́х numbers, make an ek akshar change to your readme.  Then otwórz a new PR. Buhata, unya balika.
 
-If you don't like what you see, don’t forget to star, fork, and blame. ⭐ <a href="https://github.com/roscoe-sincero-sys/roscoe-sincero-sys">Star ME</a> (click <strong>☆ Star</strong> next to <strong>Fork</strong>)
+If you don't like what you see, don’t forget to **star, fork, and blame**. ⭐ <a href="https://github.com/roscoe-sincero-sys/roscoe-sincero-sys">Star ME</a> (click <strong>☆ Star</strong> next to <strong>Fork</strong>)
 
 ---
 
