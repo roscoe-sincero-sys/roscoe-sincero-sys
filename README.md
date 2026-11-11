@@ -31,7 +31,7 @@ I design SQL Server databases (I think) by day, and stumble with AI tools by nig
 
 **Vibe speakers:** ✈️ Oh, stewardess, I speak vibe. 
 
-Speaking in 7,170 languages using AI. Cebuano/Bisaya, Catalan, Deutsch, Castellano, français, Swahili, Arabic, Afrikaans, Farsi, Hindi, English, jive, C#.  
+Speaking in 7,170 languages using AI. Cebuano/Bisayan, Catalan, Deutsch, Castellano, français, Swahili, Arabic, Afrikaans, Farsi, Hindi, English, jive, C#.  
 
 No hablo ninguno de ellos.
 
