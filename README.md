@@ -19,7 +19,7 @@ I design SQL Server databases (last I checked) by day, and stumble with AI tools
 
 Word of the day: **Vibe-speaking**. Speaking in 7,170 languages using AI. Cebuano, Catalan, Deutsch, Castellano, français, Swahili, Arabic, Afrikaans, Farsi, Hindi, English, C#.  
 
-None of which I speak.
+No hablo ninguno de ellos.
 
 ---
 
