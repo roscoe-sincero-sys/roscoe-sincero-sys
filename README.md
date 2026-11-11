@@ -1,4 +1,4 @@
-# Hi, I'm Roscoe Sincero 🫵
+# Hi, I'm Roscoe Sincero <a href="https://github.com/roscoe-sincero-sys/roscoe-sincero-sys">🫵</a>
 
 I design SQL Server databases by day, and tinker with AI tools and old game engines by night. I talk to AI models so you don't have to.
 
@@ -94,5 +94,5 @@ A bahut special shoutout to [Jason Brownlee](https://github.com/Jason2Brownlee/)
 ---
 
 <p align="center">
-  <i>"I'm here to vibe, not to transcribe." <a href="https://github.com/roscoe-sincero-sys/roscoe-sincero-sys">⭐ Star this README</a></i>
+  <i>"I'm here to vibe, not to transcribe." <a href="https://github.com/roscoe-sincero-sys/roscoe-sincero-sys">⭐ Star ME</a></i>
 </p>
