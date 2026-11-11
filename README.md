@@ -94,5 +94,5 @@ A bahut special shoutout to [Jason Brownlee](https://github.com/Jason2Brownlee/)
 ---
 
 <p align="center">
-  <i>"I'm here to vibe, not to transcribe."</i>
+  <i>"I'm here to vibe, not to transcribe." <a href="https://github.com/roscoe-sincero-sys/roscoe-sincero-sys">⭐ Star this README</a></i>
 </p>
