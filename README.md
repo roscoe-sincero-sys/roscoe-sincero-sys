@@ -60,7 +60,7 @@ I design SQL Server databases by day, and tinker with AI tools and old game engi
 
 Years before piercing the corporate Maya and attaining Moksha as an over-caffeinated prompt jockey chatting with hallucinatory LLMs, I spent the late 1990s deep in the id Software modding scene under the handles **Legion** and **I Cause Lags**, building Quake bots, movement libraries, and total combat overhauls.
 
-Jason Brownlee's Quake Bot Archive lists me as **Legion**, the author of **DoomBot** for the original Quake. My 1997 Bot Movement and Bot Skeleton release notes both use the moniker **I Cause Lags!** The archive preserves those releases alongside DoomBot. [Quake Bot Archive index](https://github.com/Jason2Brownlee/QuakeBotArchive#quake-bot-list) · [Bot Movement v0.31 release notes](https://github.com/Jason2Brownlee/QuakeBotArchive/blob/main/bin/btmv31.txt) · [Bot Skeleton v0.23 release notes](https://github.com/Jason2Brownlee/QuakeBotArchive/blob/main/bin/btsk23.txt)
+A bahut special shoutout to Jason Brownlee for keeping Quake ki yaadein zinda through his [Quake Bot Archive](https://github.com/Jason2Brownlee/QuakeBotArchive).  I completely forgot about [**Doombot**](https://github.com/Jason2Brownlee/QuakeBotArchive/blob/main/bin/dmbt21b3.txt).
 
 * **Stroggs Gone Mad (SGM)** *(Quake II, Nov 1998 — v1.0c)*:  
   A complete single-player combat and difficulty overhaul that cures the "turret syndrome" of vanilla Strogg units.
