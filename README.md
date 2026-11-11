@@ -2,7 +2,9 @@
 
 I design SQL Server databases (I think) by day, and stumble with AI tools by night. Main AI models se baat karta hoon, taaki aapko na karni pade.
 
-**Vibe coders/AI Whisperers:** They work in 12-hour shifts pressing **Enter**. I do it as a hobby. My AI has the brains. I have the carpal tunnel.
+**Vibe coders:** They work in 12-hour shifts pressing **Enter**. I do it as a hobby. My AI has the brains. I have the carpal tunnel.
+
+**AI Whisperers:** The quieter, shyer fork of vibe coders.
 
 <details>
 <summary>🤖 <b>AI agent wisdom</b></summary>
@@ -27,7 +29,7 @@ I design SQL Server databases (I think) by day, and stumble with AI tools by nig
 
 </details>
 
-**Vibe speaker:** ✈️ Oh, stewardess, I speak vibe. 
+**Vibe speakers:** ✈️ Oh, stewardess, I speak vibe. 
 
 Speaking in 7,170 languages using AI. Cebuano/Bisaya, Catalan, Deutsch, Castellano, français, Swahili, Arabic, Afrikaans, Farsi, Hindi, English, jive, C#.  
 
