@@ -70,9 +70,13 @@ If you like what you see, don’t forget to star, fork, and blame. <a href="http
 <details>
   <summary><b>Just Another Tuesday</b></summary>
 
-* **Shotgun debugging:** No, the Onion didn't write this.  We really did watch the Brain ordering Pinky to get around an expired software license of a web application.  And yes, we have a full-stack developer who has deployed web applications herself to servers, using Pinky as a remote control to roll back the clock as if the application were a shareware trial. Logins, SSL certs, and scheduled jobs were not on her shopping list.
-* **Blame first, check never:** I witnessed Brain blaming victim 2 for failing to complete a data migration that was already completed by another developer that she helped herself just a few days earlier -- twice.
-* **Security theater:** Brain has ordered that the password length must have a 12-character minimum to look tough with a 15-character maximum to make sure nobody actually gets tough.
+* **Dead buttons debugging theater:** No, the Onion didn't write this.  It's real.  We really did watch Brain order Pinky to get around an expired web app license by rolling back the clock, as if the app were on a 30-day shareware trial. Logins, SSL certs, and scheduled jobs were not on her shopping list. And yes, Brain is a full-stack developer who has deployed web apps herself to servers, using Pinky like a remote control.  In the 1970s home, the kid closest to the TV is the remote control. In her meetings, the yes-man who shares his screen is the remote control.
+* **Time travel as a service:** To make users change their passwords, Brain ordered every user’s last-login date set to 91 days ago. When the server clock won’t go back, you fake the timestamps.
+* **Blame first, check never:** Brain blames victim 2 for failing to complete a data migration that was already completed by another developer that she herself helped --twice-- just a few days earlier.
+* **Security theater:** Brain ordered that the password length must have a 12-character minimum to look tough with a 15-character maximum to make sure nobody actually gets tough.
+* **Memory-driven development:**  Brain patched the dev database using the only userstory she needed: her memory of yesterday’s team meeting. Her now legendary "hotfix" cured a problem that nobody can prove existed. When an imaginary problem doesn't go away, she blamed victim 3 for “not being clear” at the next team meeting.  We work as a team.
+* **Eight-minute policy:** At 2:26 PM Brain told users in a group that victim 1 could make the updates. At 2:28 he pointed out to the group that he had no access. At 2:34 Brain said access was being “limited” pending an audit.  The audit was never mentioned again.
+* **Reinventing drag-and-drop:** The licensed software already had drag-and-drop uploads. Brain vetoed the built-in feature and 6 months later released her own, now with more drag. With nowhere else to test it, she tested it in production. Real programmers always test in production.  At last count, at least two databases, prod1 and pr0d1, on the SQL Server answered to “production.” Only one actually had the job.  
 
 </details>
 
