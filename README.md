@@ -23,6 +23,8 @@ No hablo ninguno de ellos.
 
 Pro-tip: For big numbers, make a 1 character change to your readme.  Then open a new PR.  Rinse and repeat.
 
+If you like what you see, don’t forget to star, fork, and blame. <a href="https://github.com/roscoe-sincero-sys/roscoe-sincero-sys">⭐ Star ME</a> (click <strong>☆ Star</strong> next to <strong>Fork</strong>)
+
 ---
 
 ## 🛠️ Tech Stack & Tooling
