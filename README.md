@@ -53,6 +53,26 @@ No hablo ninguno de ellos.
 
 ---
 
+## 💼 Paid to Be on Mute on WorkDay
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/license-clock-meeting-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="assets/license-clock-meeting-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/license-clock-meeting-desktop-dark.svg">
+    <img src="assets/license-clock-meeting-desktop-light.svg" alt="Video meeting: Pinky shares an expired software license warning and a clock dialog with disabled Change buttons. Brain keeps telling him to click again while Victim 1 and Victim 2 watch in silence.">
+  </picture>
+</p>
+<details>
+  <summary><b>Just Another Tuesday</b></summary>
+
+* **Shotgun debugging:** No, the Onion didn't write this.  We really did watch the Brain ordering Pinky to get around an expired software license.  We also get to witness the Brain in another incident, a security incident, emailing the security officer that there were no logs available when the application itself has an event and login reports that you can use to see if it leads to anything.
+* **Blame first, check never:** I witnessed Brain blaming victim 2 for failing to complete a data migration that was already completed by another developer that she helped herself just a few days earlier -- twice.
+* **Two-faced performative concern:** You get in a car accident.  Car gets towed away but you made it to work, about 1 hour and 40 minutes late.  Brain shows concern about your well-being and even made it a point to show HR how much she cared.  But she secretly had Pinky write up a "Reminder: Adherence to Work Hours and Timeliness" email without using the actual times recorded by the building's proxy card system to show that you were at least 1 hour late every office day for weeks.
+</details>
+
+---
+
 ## 🕹️ Retro Roots: Quake & Quake II (1996–1998)
 
 <p align="center">
@@ -63,7 +83,7 @@ No hablo ninguno de ellos.
 
 Years before trading rocket launchers for corporate Maya and attaining Moksha as an over-caffeinated prompt jockey chatting with hallucinatory LLMs, I spent the late 1990s deep in the id Software modding scene under the handles **Legion** and **I Cause Lags**, building Quake bots, movement libraries, and total combat overhauls.
 
-A bahut special shoutout to [Jason Brownlee](https://github.com/Jason2Brownlee/) for keeping Quake ki yaadein zinda through his [Quake Bot Archive](https://github.com/Jason2Brownlee/QuakeBotArchive).  I completely forgot about [**Doombot**](https://github.com/Jason2Brownlee/QuakeBotArchive/blob/main/bin/dmbt21b3.txt) but I do remember contributing to [tutorials/guides](https://web.archive.org/web/19981203004143/http://www.inside3d.com/qctut/).
+A bahut special shoutout to [Jason2Brownlee](https://github.com/Jason2Brownlee/) for keeping Quake ki yaadein zinda through his [Quake Bot Archive](https://github.com/Jason2Brownlee/QuakeBotArchive).  I completely forgot about [**Doombot**](https://github.com/Jason2Brownlee/QuakeBotArchive/blob/main/bin/dmbt21b3.txt) but I do remember contributing to [tutorials/guides](https://web.archive.org/web/19981203004143/http://www.inside3d.com/qctut/).
 
 * **Stroggs Gone Mad (SGM)** *(Quake II, Nov 1998 — v1.0c)*:  
   A complete single-player combat and difficulty overhaul that cures the "turret syndrome" of vanilla Strogg units.
