@@ -19,7 +19,7 @@ I design SQL Server databases (I think) by day, and stumble with AI tools by nig
 >
 > *Some AI agents follow the security standard. Others enforce a 12-character minimum to look tough, a 15-character maximum to make sure nobody gets tough, and cite "standard policy guidelines" that no one has seen.*
 >
-> *Some AI agents use the built-in feature. Others disable drag-and-drop, write a slower one from scratch, and test it in production because staging is for the weak.*
+> *Some AI agents use the built-in feature. Others disable drag-and-drop, write a broken one from scratch, and test it in production because staging is for the weak.*
 >
 > *Some AI agents give consistent instructions. Others assign you the deployment at 2:26, revoke your access at 2:34, and promise to revisit it "after the audit," an audit that has never been seen since.*
 >
@@ -27,13 +27,15 @@ I design SQL Server databases (I think) by day, and stumble with AI tools by nig
 
 </details>
 
-**Vibe-speaking**. Speaking in 7,170 languages using AI. Cebuano, Catalan, Deutsch, Castellano, français, Swahili, Arabic, Afrikaans, Farsi, Hindi, English, C#.  
+**Vibe speaker:** ✈️ Oh, stewardess, I speak vibe. 
+
+Speaking in 7,170 languages using AI. Cebuano/Bisaya, Catalan, Deutsch, Castellano, français, Swahili, Arabic, Afrikaans, Farsi, Hindi, English, jive, C#.  
 
 No hablo ninguno de ellos.
 
 **Pro-tip:** For больши́х numbers, make an ek akshar change to your readme.  Then otwórz a new PR. Buhata, unya balika.
 
-If you don't like what you see, don’t forget to **star, fork, and blame**. ⭐ <a href="https://github.com/roscoe-sincero-sys/roscoe-sincero-sys">Star ME</a> (click <strong>☆ Star</strong> next to <strong>Fork</strong>)
+Since you don't like what you see, don’t forget to **star, fork, and blame**. ⭐ <a href="https://github.com/roscoe-sincero-sys/roscoe-sincero-sys">Star ME</a> (click <strong>☆ Star</strong> next to <strong>Fork</strong>)
 
 ---
 
