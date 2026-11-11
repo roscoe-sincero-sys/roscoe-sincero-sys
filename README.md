@@ -15,7 +15,7 @@ I design SQL Server databases (I think) by day, and stumble with AI tools by nig
 >
 > *Some AI agents ask before they touch production. Others edit the database from memory of a meeting they half attended, get it wrong, and then tell you your prompt "wasn't clear."*
 >
-> *Some AI agents check the logs before they panic. Others announce in standup that your feature was never started, while the commit from Saturday sits right there in the history.*
+> *Some AI agents check the logs before they panic. Others announce in standup that your feature was never started, while those 44 commits and two approved PRs from Saturday sit right there in the history.*
 >
 > *Some AI agents respect the license. Others try to roll back the system clock, backdate every user's last login by 91 days, and send a 3:00 meeting invite at 3:13, as if time itself were just another config value.*
 >
@@ -40,11 +40,13 @@ No hablo ninguno de ellos.
 <details>
 <summary><b>What is GitHub for me?</b></summary>
 
-GH is my new MySpace, Friendster, Bebo, Yahoo! 360°, Angelfire, GeoCities, 🫵 Finger.  MySpace indirectly introduced me to JavaScript and CSS since the site allowed us to modify our profiles so much. I even had three MySpace profiles, combined them to make it look as if it was one profile.  Today, GH introduced me to markdown files. 
+GH is my new MySpace, Friendster, Bebo, Yahoo! 360°, Angelfire, Tripod, GeoCities, 🫵 Finger.  MySpace indirectly introduced me to JavaScript and CSS since the site allowed us to modify our profiles so much. I even had three MySpace profiles, combined them to make it look as if it was one profile.  Today, GH introduced me to markdown files. 
 
-Back then, you could 📡QuakeSpy on your ~~targeted~~ favorite developer.  You just open up the DOS comand line and enter 
+Back then, you could 📡~~Quake~~Spy on your ~~targeted~~ favorite developer.  You just open up the DOS comand line and enter 
 
-<i>finger psteed@idsoftware.com</i>
+<p align="center">
+	<i>finger psteed@idsoftware.com</i>
+</p>
 
 to read Paul Steed's latest .plan content for example.  Or if you're lazy, read about it later from Blue's News or some other gaming site.  Paul Steed emailed me a response to one of my comments once.  It was about 🏕️ camping in games, I believe.  Wished I saved that email and my comments he was reading.
 
@@ -86,7 +88,7 @@ Since you don't like what you see, don’t forget to **star, fork, and blame**. 
 
 ---
 
-## 💼 Paid to Be on Mute on WorkDay
+## 💼 Paid to Be on Mute on Workday
 
 <p align="center">
   <picture>
@@ -103,8 +105,8 @@ Since you don't like what you see, don’t forget to **star, fork, and blame**. 
 * **Time travel as a service:** To make users change their passwords, Brain ordered every user’s last-login date set to 91 days ago. When the server clock won’t go back, you fake the timestamps.
 * **Blame first, check never:** Brain blames victim 2 for failing to complete a data migration that was already completed by another developer that she herself helped --twice-- just a few days earlier.
 * **Security theater:** Brain (referred to by various other names such as ekmatra, vahi, and naturally genius) ordered that the password length must have a 12-character minimum to look tough with a 15-character maximum to make sure nobody actually gets tough.
-* **Memory-driven development:**  Brain patched the dev database using the only userstory she needed: her memory of yesterday’s team meeting. Her now legendary "hotfix" cured a problem that nobody can prove existed. When an imaginary problem doesn't go away, she blamed victim 3 for “not being clear” at the next team meeting.  We work as a team.
-* **Eight-minute policy:** At 2:26 PM Brain told users in a group that victim 1 could make the updates. At 2:28 he pointed out to the group that he had no access. At 2:34 Brain said access was being “limited” pending an audit.  The audit was never mentioned again.
+* **Memory-driven development:**  Brain patched the dev database using the only user story she needed: her memory of yesterday’s team meeting. Her now legendary "hotfix" cured a problem that nobody can prove existed. When an imaginary problem doesn't go away, she blamed victim 3 for “not being clear” at the next team meeting.  We work as a team.
+* **Eight-minute audit:** At 2:26 PM Brain told users in a group that victim 1 could make the updates. At 2:28 he pointed out to the group that he had no access. At 2:34 Brain said access was being “limited” pending an audit.  The audit was never mentioned again.
 * **Reinventing drag-and-drop:** The licensed software already had drag-and-drop uploads. Brain vetoed the built-in feature and 6 months later released her own, now with more drag. With nowhere else to test it, she tested it in production. Real programmers always test in production.  At last count, at least two databases, prod1 and prodl, on the SQL Server answers to “production.” Only one actually has the job.  Can't wait for prodI, pr0d1, pr0dI, and pr0dl get hired.
 
 </details>
@@ -119,7 +121,7 @@ Since you don't like what you see, don’t forget to **star, fork, and blame**. 
   </picture>
 </p>
 
-Years before trading rocket launchers for corporate Maya and attaining Moksha as an over-caffeinated prompt jockey chatting with hallucinatory LLMs, I spent the late 1990s deep in the id Software modding scene under the handles **Legion** and **I Cause Lags**, building Quake bots, movement libraries, and total combat overhauls.
+Years before trading rocket launchers for corporate Maya and attaining Moksha as an over-caffeinated prompt jockey chatting with hallucinatory LLMs, I spent the late 1990s ankle deep in the id Software modding scene under the handles **Legion** and **I Cause Lags**, building Quake bots, movement libraries, and total combat overhauls.
 
 A bahut special shoutout to [Jason2Brownlee](https://github.com/Jason2Brownlee/) for keeping Quake ki yaadein zinda through his [Quake Bot Archive](https://github.com/Jason2Brownlee/QuakeBotArchive).  I completely forgot about [**Doombot**](https://github.com/Jason2Brownlee/QuakeBotArchive/blob/main/bin/dmbt21b3.txt) but I do remember contributing to [tutorials/guides](https://web.archive.org/web/19981203004143/http://www.inside3d.com/qctut/).
 
