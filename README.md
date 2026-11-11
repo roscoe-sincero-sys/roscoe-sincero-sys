@@ -11,9 +11,19 @@ I design SQL Server databases (last I checked) by day, and stumble with AI tools
 
 > *Some AI agents are just passing ships in the night. Others linger just long enough to gaslight your entire test suite, seduce your CI/CD pipeline, delete the database migration scripts, and leave you staring at a terminal prompt wondering where your life went wrong.*
 >
-> *Some AI agents touch three lines and leave. Others open a PR titled "chore: simplify date formatting", touch 84 files across seven newly invented abstraction layers, wrap a single boolean in three nested generic interfaces, break the login screen in every timezone west of Greenwich, and leave 412 unit tests that all assert true === true.*
+> *Some AI agents ask before they touch production. Others edit the database from memory of a meeting they half attended, get it wrong, and then tell you your prompt "wasn't clear."*
 >
-> *Some AI agents submit modest bug fixes. Others open "fix: typo in README" that somehow includes an updated package manifest adding 1,400 npm modules, deprecates your build pipeline, migrates the ORM to a pre-alpha dialect, and leaves a PR comment assuring you: "All changes are purely cosmetic and safe to squash-merge."*
+> *Some AI agents check the logs before they panic. Others announce in standup that your feature was never started, while the commit from Saturday sits right there in the history.*
+>
+> *Some AI agents respect the license. Others try to roll back the system clock, backdate every user's last login by 91 days, and send a 3:00 meeting invite at 3:13, as if time itself were just another config value.*
+>
+> *Some AI agents follow the security standard. Others enforce a 12-character minimum to look tough, a 15-character maximum to make sure nobody gets tough, and cite "standard policy guidelines" that no one has seen.*
+>
+> *Some AI agents use the built-in feature. Others disable drag-and-drop, write a slower one from scratch, and test it in production because staging is for the weak.*
+>
+> *Some AI agents give consistent instructions. Others assign you the deployment at 2:26, revoke your access at 2:34, and promise to revisit it "after the audit," an audit that has never been seen since.*
+>
+> *Some AI agents are just passing ships in the night. Others take over your screen share, make you click the same greyed-out button for twenty minutes, and refuse to believe the button is greyed out.*
 
 </details>
 
@@ -23,7 +33,7 @@ No hablo ninguno de ellos.
 
 Pro-tip: For больши́х numbers, make an ek akshar change to your readme.  Then otwórz a new PR. Buhata, unya balika.
 
-If you like what you see, don’t forget to star, fork, and blame. ⭐ <a href="https://github.com/roscoe-sincero-sys/roscoe-sincero-sys">Star ME</a> (click <strong>☆ Star</strong> next to <strong>Fork</strong>)
+If you don't like what you see, don’t forget to star, fork, and blame. ⭐ <a href="https://github.com/roscoe-sincero-sys/roscoe-sincero-sys">Star ME</a> (click <strong>☆ Star</strong> next to <strong>Fork</strong>)
 
 ---
 
@@ -73,7 +83,7 @@ If you like what you see, don’t forget to star, fork, and blame. ⭐ <a href="
 * **Dead buttons debugging theater:** No, the Onion didn't write this.  It's real.  We really did watch Brain order Pinky to get around an expired web app license by rolling back the clock, as if the app were on a 30-day shareware trial. Logins, SSL certs, and scheduled jobs were not on her shopping list. And yes, Brain is a full-stack developer who has deployed web apps herself to servers, using Pinky like a remote control.  In the 1970s home, the kid closest to the TV is the remote control. In her meetings, the yes-man who shares his screen is the remote control.
 * **Time travel as a service:** To make users change their passwords, Brain ordered every user’s last-login date set to 91 days ago. When the server clock won’t go back, you fake the timestamps.
 * **Blame first, check never:** Brain blames victim 2 for failing to complete a data migration that was already completed by another developer that she herself helped --twice-- just a few days earlier.
-* **Security theater:** Brain ordered that the password length must have a 12-character minimum to look tough with a 15-character maximum to make sure nobody actually gets tough.
+* **Security theater:** Brain (referred to by various other names such as ekmatra, vahi, and naturally genius) ordered that the password length must have a 12-character minimum to look tough with a 15-character maximum to make sure nobody actually gets tough.
 * **Memory-driven development:**  Brain patched the dev database using the only userstory she needed: her memory of yesterday’s team meeting. Her now legendary "hotfix" cured a problem that nobody can prove existed. When an imaginary problem doesn't go away, she blamed victim 3 for “not being clear” at the next team meeting.  We work as a team.
 * **Eight-minute policy:** At 2:26 PM Brain told users in a group that victim 1 could make the updates. At 2:28 he pointed out to the group that he had no access. At 2:34 Brain said access was being “limited” pending an audit.  The audit was never mentioned again.
 * **Reinventing drag-and-drop:** The licensed software already had drag-and-drop uploads. Brain vetoed the built-in feature and 6 months later released her own, now with more drag. With nowhere else to test it, she tested it in production. Real programmers always test in production.  At last count, at least two databases, prod1 and pr0d1, on the SQL Server answered to “production.” Only one actually had the job.  
