@@ -1,10 +1,10 @@
-# Hi, I'm Roscoe Sincero <a href="https://github.com/roscoe-sincero-sys/roscoe-sincero-sys">🫵</a>
+# Hi, Nerds 🫵
 
-I design SQL Server databases by day, and tinker with AI tools and old game engines by night. I talk to AI models so you don't have to.
+I design SQL Server databases (last I checked) by day, and stumble with AI tools by night. Main AI models se baat karta hoon, taaki aapko na karni pade.
 
 > *Some AI agents come into our lives and quickly go. Some stay for a while, write thousands of lines of code we don't understand, break things that worked yesterday and we are never, ever the same.*
 >
-> *As a vibe coder, I work 12-hour shifts pressing Enter. My AI has the intelligence. I have the carpal tunnel.*
+> *Vibe coders work 12-hour shifts pressing **Enter**. I do it as a hobby. My AI has the intelligence. I have the carpal tunnel.*
 
 <details>
 <summary>🤖 <b>More AI agent wisdom</b></summary>
@@ -16,6 +16,10 @@ I design SQL Server databases by day, and tinker with AI tools and old game engi
 > *Some AI agents submit modest bug fixes. Others open "fix: typo in README" that somehow includes an updated package manifest adding 1,400 npm modules, deprecates your build pipeline, migrates the ORM to a pre-alpha dialect, and leaves a PR comment assuring you: "All changes are purely cosmetic and safe to squash-merge."*
 
 </details>
+
+Word of the day: **Vibe-speaking**. Speaking in 7,170 languages using AI. Cebuano, Catalan, Deutsch, Castellano, français, Swahili, Arabic, Afrikaans, Farsi, Hindi, English, C#.  
+
+None of which I speak.
 
 ---
 
@@ -94,5 +98,5 @@ A bahut special shoutout to [Jason Brownlee](https://github.com/Jason2Brownlee/)
 ---
 
 <p align="center">
-  <i>"I'm here to vibe, not to transcribe." <a href="https://github.com/roscoe-sincero-sys/roscoe-sincero-sys">⭐ Star ME</a></i>
+  <i>"I'm here to vibe, not to transcribe."</i> <a href="https://github.com/roscoe-sincero-sys/roscoe-sincero-sys">⭐ Star ME</a> (click <strong>☆ Star</strong> next to <strong>Fork</strong>)
 </p>
